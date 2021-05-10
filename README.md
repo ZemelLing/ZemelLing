@@ -31,6 +31,7 @@
 -->
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=Visual-Studio-Code)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio)
+![Rider](https://img.shields.io/badge/-Rider-%231B1B1B?style=flat-square&logo=rider)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23FFFFFF)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity)
