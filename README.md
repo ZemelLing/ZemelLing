@@ -18,11 +18,11 @@
 <!--
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B)
--->
-![CSharp](https://img.shields.io/badge/-C%23-690081?style=flat-square&logo=C-Sharp)
 ![Java](https://img.shields.io/badge/-Java-E11F22?style=flat-square&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-4584b6?style=flat-square&logo=Python&logoColor=FFFFFF)
 ![GoLang](https://img.shields.io/badge/-GoLang-00ADD8?style=flat-square&logo=Go&logoColor=FFFFFF)
+-->
+![CSharp](https://img.shields.io/badge/-C%23-690081?style=flat-square&logo=C-Sharp)
 
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown)
 <!--
