@@ -23,6 +23,7 @@
 ![GoLang](https://img.shields.io/badge/-GoLang-00ADD8?style=flat-square&logo=Go&logoColor=FFFFFF)
 -->
 ![CSharp](https://img.shields.io/badge/-C%23-690081?style=flat-square&logo=C-Sharp)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown)
 <!--
